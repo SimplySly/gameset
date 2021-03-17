@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Dodge Obstacles/Level1.unity
+    guid: 2f5ae29723498b94bb9273f315cd502b
+  - enabled: 1
+    path: Assets/Scenes/Dodge Obstacles/Level2.unity
+    guid: a131b9083bb32c34488df4651f56da6c
+  - enabled: 1
+    path: Assets/Scenes/Jumper/Level1.unity
+    guid: 492b07ee2e41501488708585315577a4
+  - enabled: 1
+    path: Assets/Scenes/Jumper/Level2.unity
+    guid: 5752694bc66497f43b73dbb86381f395
+  m_configObjects: {}
